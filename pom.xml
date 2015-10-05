@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.lanyuan</groupId>
-	<artifactId>lanyuan-notebook-3.1v</artifactId>
+	<groupId>DemoWeb</groupId>
+	<artifactId>DemoWebGit</artifactId>
 	<packaging>war</packaging>
 	<version>3.1</version>
-	<name>lanyuan-notebook-3.1v Maven Webapp</name>
+	<name>DemoWebGit Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<!-- 项目属性 -->
 	<properties>
@@ -250,7 +250,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>lanyuan-notebook-3.1v</finalName>
+		<finalName>DemoWebGit</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mortbay.jetty</groupId>
